@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-public void test(){
-	wozhijiema 
+public class Hello{
+
+	public static void main(String[] args){
+		System.out.println("Hello World!!!!!!!!!!!");
+	}
 }
-hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
-hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
-public void test womael :
-womamel zhende hhhh hhh 
-master test
-hot-fix   hhhhhhhhhhhh
