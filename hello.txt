@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 public void test(){
 	wozhijiema 
 }
+=======
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+public void test womael :
+womamel zhende hhhh hhh :
+>>>>>>> hot-fix
+master test
