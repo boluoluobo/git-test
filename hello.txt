@@ -2,10 +2,9 @@
 public void test(){
 	wozhijiema 
 }
-=======
 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 public void test womael :
-womamel zhende hhhh hhh :
->>>>>>> hot-fix
+womamel zhende hhhh hhh 
 master test
+hot-fix   hhhhhhhhhhhh
